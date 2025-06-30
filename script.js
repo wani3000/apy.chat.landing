@@ -318,5 +318,5 @@ document.addEventListener('DOMContentLoaded', function() {
     initVideoLoop();
 
     // Console message
-    console.log('🚀 Halo AI Studio website loaded successfully!');
+    console.log('🚀 APY Chat website loaded successfully!');
 });
