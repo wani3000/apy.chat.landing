@@ -1,4 +1,4 @@
-// Halo AI Studio - Interactive Functionality
+// APY Chat - Interactive Functionality
 document.addEventListener('DOMContentLoaded', function() {
     
     // Smooth Scrolling for Navigation Links
