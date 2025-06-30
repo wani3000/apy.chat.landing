@@ -1194,8 +1194,11 @@ body {
     }
     
     .hero-main-title {
-        font-size: 7rem;
+        font-size: 3.5rem;
     }
+
+    .hero-subtitle {
+        font-size: 18px;
     
     .search-question {
         font-size: 28px;
